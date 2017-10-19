@@ -1,3 +1,4 @@
+# Read me is obsolete, gonna change it as soon as main features will be implemented, stay tuned
 # BPM-Analyser
 
 ![](https://img.shields.io/badge/swift-4.0-green.svg)
